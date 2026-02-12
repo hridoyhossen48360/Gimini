@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Interior AI",
+  "description": "A premium AI-powered interior design consultant that reimagines your space using advanced generative models. Upload a photo, swap styles instantly, and refine every detail through a conversational interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
